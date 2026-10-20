@@ -5,13 +5,13 @@ Start date: 2019-09-16
 
 ## Demo
 
-![Sample 1 screenshot](Picture1.png)
+![Sample 1 screenshot](sample-1-screenshot.png)
 
-![Sample 2 screenshot](Picture2.png)
+![Sample 2 screenshot](sample-2-screenshot.png)
 
-![Sample 3 screenshot without space redrawn](Picture3.png)
+![Sample 3 screenshot without space redrawn](sample-3-screenshot-without-space-redrawn.png)
 
-![Sample 4 screenshot without space redrawn](Picture4.png)
+![Sample 4 screenshot without space redrawn](sample-4-screenshot-without-space-redrawn.png)
 
 ## Dependencies
 
